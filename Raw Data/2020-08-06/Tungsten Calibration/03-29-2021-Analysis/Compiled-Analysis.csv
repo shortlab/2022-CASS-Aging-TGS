@@ -1,0 +1,29 @@
+FileName, TimeIndex, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, TimeIndex, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, TimeIndex, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, TimeIndex, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, TimeIndex, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, TimeIndex, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, TimeIndex, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+FileName, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+./Tungsten-Calibration-2020-08-06-07.60um-spot0-POS-1.txt,1.870000E+02,4.165101E+08,2.476017E+03,7.224973E-05,1.533066E-06,2.346908E-08,2.632156E-08,4.297217E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot1-POS-1.txt,1.870000E+02,4.160784E+08,2.591820E+03,7.195163E-05,1.057608E-06,2.412095E-08,2.634887E-08,3.071478E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot2-POS-1.txt,1.880000E+02,4.162331E+08,2.548696E+03,6.901931E-05,2.228959E-06,2.521248E-08,2.633908E-08,4.304298E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot0-POS-1.txt,1.870000E+02,4.165101E+08,2.476017E+03,7.224973E-05,1.533066E-06,2.346908E-08,2.632156E-08,4.297217E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot1-POS-1.txt,1.870000E+02,4.160784E+08,2.591820E+03,7.195163E-05,1.057608E-06,2.412095E-08,2.634887E-08,3.071478E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot2-POS-1.txt,1.880000E+02,4.162331E+08,2.548696E+03,6.901931E-05,2.228959E-06,2.521248E-08,2.633908E-08,4.304298E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot3-POS-1.txt,1.860000E+02,4.162205E+08,2.843093E+03,7.295672E-05,3.900786E-06,2.326140E-08,2.633987E-08,3.797854E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot4-POS-1.txt,1.830000E+02,4.164046E+08,2.650854E+03,7.200497E-05,1.160484E-06,2.296273E-08,2.632823E-08,2.784044E-08
+FileName, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+./Tungsten-Calibration-2020-08-06-07.60um-spot0-POS-1.txt,1.870000E+02,4.165101E+08,2.476017E+03,7.224973E-05,1.533066E-06,2.346908E-08,2.632156E-08,4.297217E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot1-POS-1.txt,1.870000E+02,4.160784E+08,2.591820E+03,7.195163E-05,1.057608E-06,2.412095E-08,2.634887E-08,3.071478E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot2-POS-1.txt,1.880000E+02,4.162331E+08,2.548696E+03,6.901931E-05,2.228959E-06,2.521248E-08,2.633908E-08,4.304298E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot3-POS-1.txt,1.860000E+02,4.162205E+08,2.843093E+03,7.295672E-05,3.900786E-06,2.326140E-08,2.633987E-08,3.797854E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot4-POS-1.txt,1.830000E+02,4.164046E+08,2.650854E+03,7.200497E-05,1.160484E-06,2.296273E-08,2.632823E-08,2.784044E-08
+FileName, PeakFrequency(Hz), FrequencyError, ThermalDiffusivity(m2/s), ThermalError, Tau\n
+./Tungsten-Calibration-2020-08-06-07.60um-spot0-POS-1.txt,1.870000E+02,4.165101E+08,2.476016E+03,1.023495E-04,2.168997E-06,2.346907E-08,2.211357E-08,4.294142E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot1-POS-1.txt,1.870000E+02,4.160784E+08,2.591820E+03,1.019411E-04,1.498122E-06,2.412095E-08,2.213652E-08,3.070424E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot2-POS-1.txt,1.880000E+02,4.162331E+08,2.548697E+03,9.561484E-05,1.552248E-06,2.521248E-08,2.212829E-08,3.031422E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot3-POS-1.txt,1.860000E+02,4.162205E+08,2.843093E+03,1.034941E-04,5.537610E-06,2.326139E-08,2.212896E-08,3.611249E-08
+./Tungsten-Calibration-2020-08-06-07.60um-spot4-POS-1.txt,1.830000E+02,4.164046E+08,2.650853E+03,1.020120E-04,1.643901E-06,2.296273E-08,2.211917E-08,2.784047E-08
